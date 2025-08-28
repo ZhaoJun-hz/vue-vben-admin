@@ -5,16 +5,16 @@
       "path": "apps/backend-mock",
     },
     {
-      "name": "@vben/web-antd",
-      "path": "apps/web-antd",
+      "name": "@vben/index",
+      "path": "apps/index",
     },
     {
       "name": "@vben/web-ele",
       "path": "apps/web-ele",
     },
     {
-      "name": "@vben/web-naive",
-      "path": "apps/web-naive",
+      "name": "@vben/permission-system",
+      "path": "apps/permission-system",
     },
     {
       "name": "@vben/docs",
